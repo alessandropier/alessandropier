@@ -42,10 +42,13 @@ listening to music
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=Debian&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=Android&logoColor=white)
 <br>
-![Sublime Text](https://img.shields.io/badge/SublimeText-FF9800?style=for-the-badge&logo=SublimeText&logoColor=white)
+![Sublime Text](https://img.shields.io/badge/Sublime%20Text-FF9800?style=for-the-badge&logo=SublimeText&logoColor=white)
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white)
 ![Vs Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Vim](https://img.shields.io/badge/Vim-019733?style=for-the-badge&logo=Vim&logoColor=white)
+<br>
+![Stack Overflow](https://img.shields.io/badge/Stack%20Overflow-F58025?style=for-the-badge&logo=StackOverflow&logoColor=white)
+![Stack Exchange](https://img.shields.io/badge/Stack%20Exchange-1E5397?style=for-the-badge&logo=Stack%20Exchange&logoColor=white)
 <br>
 ![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=Discord&logoColor=white)
 ![TeamSpeak](https://img.shields.io/badge/TeamSpeak-2580C3?style=for-the-badge&logo=TeamSpeak&logoColor=white)
