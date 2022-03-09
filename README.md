@@ -6,7 +6,7 @@
 - 📚 I am currently learning everything about Computer Science and Music
 - 💬 Ask me about programming, video/photo editing, gaming and art in general
 - 😄 Pronouns: [he/him](https://www.mypronouns.org/he-him)
-- 👾 Fun Fact: I spend [12h+ a day](https://user-images.githubusercontent.com/57688261/157446686-4ce9d5da-0476-42a7-b53e-98be3e89c725.jpg)
+- 👾 Fun Fact: I spend [+12h a day](https://user-images.githubusercontent.com/57688261/157446686-4ce9d5da-0476-42a7-b53e-98be3e89c725.jpg)
 listening to music
 
 ---
