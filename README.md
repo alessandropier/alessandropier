@@ -2,9 +2,9 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-## I'm a Computer Science student
-- 📚 I am currently learning everything about Computer Science and Music
-- 💬 Ask me about programming, video/photo editing, gaming and art in general
+## I'm a Computer Scientist
+- 📚 I am currently learning everything about Computer Science, Cinema and Music
+- 💬 Lover of cinema, music, fashion and art in general
 - 😄 Pronouns: [he/him](https://www.mypronouns.org/he-him)
 - 👾 Fun Fact: I spend [+12h a day](https://user-images.githubusercontent.com/57688261/157446686-4ce9d5da-0476-42a7-b53e-98be3e89c725.jpg)
 listening to music
