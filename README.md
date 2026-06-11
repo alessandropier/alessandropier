@@ -11,13 +11,6 @@ listening to music
 
 ---
 
-### Get in touch with me 📝
-[![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alessandropiergiovanni001/)
-[![Genius](https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=Genius&logoColor=black)](https://genius.com/piergyo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alessdecesare/)
-
----
-
 ### Languages 💻
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
