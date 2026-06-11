@@ -3,10 +3,10 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ### I'm a Computer Scientist
-- 📚 Currently learning everything about Computer Science, Cinema and Music
-- 💬 Lover of cinema, music, fashion and art in general
+- 📚 Currently learning everything about Computer Science, Cinema and Art
+- 💬 Lover of cinema, music and art in general
 - 😄 Pronouns: [he/him](https://www.mypronouns.org/he-him)
-- 👾 Fun Fact: I spend [+12h a day](https://user-images.githubusercontent.com/57688261/157446686-4ce9d5da-0476-42a7-b53e-98be3e89c725.jpg)
+- 👾 Fun Fact: I _used to_ spend [+12h a day](https://user-images.githubusercontent.com/57688261/157446686-4ce9d5da-0476-42a7-b53e-98be3e89c725.jpg)
 listening to music
 
 ---
@@ -14,8 +14,7 @@ listening to music
 ### Get in touch with me 📝
 [![Linkedin](https://img.shields.io/badge/Linkedin-0A66C2?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/alessandropiergiovanni001/)
 [![Genius](https://img.shields.io/badge/Genius-FFFF64?style=for-the-badge&logo=Genius&logoColor=black)](https://genius.com/piergyo)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/piergyo/)
-[![Youtube](https://img.shields.io/badge/Youtube-FF0000?style=for-the-badge&logo=Youtube&logoColor=white)](https://www.youtube.com/channel/UC3bpxV_soKsSlTcIhj8PzvA)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/alessdecesare/)
 
 ---
 
