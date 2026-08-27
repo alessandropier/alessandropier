@@ -3,7 +3,7 @@
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
 ### I'm a Computer Scientist
-- 📚 Currently learning everything about Computer Science, Cinema and Art
+- 📚 Currently learning Node, JavaScript, TypeScript and Cinema
 - 💬 Lover of cinema, music and art in general
 - 😄 Pronouns: [he/him](https://www.mypronouns.org/he-him)
 - 👾 Fun Fact: I _used to_ spend [+12h a day](https://user-images.githubusercontent.com/57688261/157446686-4ce9d5da-0476-42a7-b53e-98be3e89c725.jpg)
