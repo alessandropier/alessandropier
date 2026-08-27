@@ -2,7 +2,7 @@
 
 <img align="right" alt="GIF" height="160px" src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" />
 
-### I'm a Computer Scientist
+### I'm a Software Engineer
 - 📚 Currently learning Node, JavaScript and TypeScript
 - 💬 Lover of cinema, music and art in general
 - 😄 Pronouns: [he/him](https://www.mypronouns.org/he-him)
