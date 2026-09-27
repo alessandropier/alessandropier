@@ -4,10 +4,7 @@
 
 ### I'm a Software Engineer
 - 📚 Currently learning Node, JavaScript, TypeScript and improving my CP skills
-- 💬 Lover of cinema, music and art in general
-- 😄 Pronouns: [he/him](https://www.mypronouns.org/he-him)
-- 👾 Fun Fact: I _used to_ spend [+12h a day](https://user-images.githubusercontent.com/57688261/157446686-4ce9d5da-0476-42a7-b53e-98be3e89c725.jpg)
-listening to music
+- 💬 Passionate about cinema, music and reading
 
 ---
 
@@ -29,6 +26,7 @@ listening to music
 ![Jupyter](https://img.shields.io/badge/jupyter-F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/latex-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ### Softwares 🖥️
 ![VirtualBox](https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=VirtualBox&logoColor=white)
