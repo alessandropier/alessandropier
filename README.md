@@ -5,6 +5,7 @@
 ### I'm a Software Engineer
 - 📚 Currently learning Node, JavaScript, TypeScript and improving my CP skills
 - 💬 Passionate about cinema, music and reading
+- 📝 Visit my Portfolio [here](https://alessandropier.github.io/)
 
 ---
 
